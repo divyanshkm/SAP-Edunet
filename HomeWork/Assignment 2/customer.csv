@@ -1,0 +1,101 @@
+customer_id,gender,age,region,tenure,phones,contracts,internet,ebill,payment_method,churn
+1,Female,27,North,12,1,1,1,Yes,Auto-pay,No
+2,Male,55,West,48,2,3,2,No,Auto-pay,Yes
+3,Male,41,South,23,1,2,1,Yes,Credit Card,No
+4,Female,20,East,2,1,1,1,No,Auto-pay,Yes
+5,Female,68,North,56,3,3,2,Yes,Bank Transfer,No
+6,Male,35,West,34,2,2,2,Yes,Auto-pay,Yes
+7,Female,45,East,45,3,2,2,No,Credit Card,No
+8,Male,33,South,14,1,1,1,Yes,Bank Transfer,No
+9,Female,29,West,7,1,1,1,Yes,Credit Card,Yes
+10,Male,52,East,60,2,3,2,No,Auto-pay,No
+11,Female,63,North,31,2,2,2,Yes,Bank Transfer,No
+12,Male,47,West,5,1,1,1,Yes,Auto-pay,Yes
+13,Male,56,South,42,2,3,2,Yes,Bank Transfer,No
+14,Female,38,East,19,1,2,1,Yes,Credit Card,Yes
+15,Male,25,North,10,1,1,1,No,Auto-pay,No
+16,Female,60,West,54,2,3,2,No,Auto-pay,No
+17,Male,44,East,28,2,2,2,No,Bank Transfer,No
+18,Female,22,South,4,1,1,1,Yes,Credit Card,Yes
+19,Male,32,West,9,1,1,1,No,Auto-pay,No
+20,Female,59,East,59,2,3,2,Yes,Bank Transfer,No
+21,Male,39,North,16,1,1,1,No,Auto-pay,Yes
+22,Female,47,West,50,2,3,2,Yes,Auto-pay,No
+23,Female,51,South,32,2,3,2,Yes,Credit Card,No
+24,Male,31,East,14,1,2,1,Yes,Auto-pay,No
+25,Male,55,North,42,2,3,2,Yes,Bank Transfer,No
+26,Female,62,West,58,3,3,2,Yes,Credit Card,No
+27,Female,29,East,5,1,1,1,No,Bank Transfer,Yes
+28,Male,36,South,10,1,1,1,Yes,Credit Card,No
+29,Male,43,West,39,2,3,2,No,Auto-pay,No
+30,Female,55,East,45,3,3,2,Yes,Auto-pay,No
+31,Male,26,North,11,1,1,1,Yes,Bank Transfer,Yes
+32,Female,49,West,36,2,2,2,Yes,Credit Card,No
+33,Female,64,South,58,3,3,2,Yes,Auto-pay,No
+34,Male,38,East,15,1,2,1,Yes,Bank Transfer,Yes
+35,Male,34,North,8,1,1,1,Yes,Credit Card,Yes
+36,Female,50,West,44,2,3,2,No,Auto-pay,No
+37,Female,28,East,12,1,1,1,No,Bank Transfer,Yes
+38,Male,42,South,26,2,2,2,Yes,Credit Card,No
+39,Male,33,West,9,1,1,1,Yes,Auto-pay,Yes
+40,Female,48,East,30,2,3,2,No,Bank Transfer,No
+41,Male,54,North,47,2,3,2,Yes,Auto-pay,No
+42,Female,36,West,21,1,2,1,Yes,Credit Card,Yes
+43,Female,60,South,55,2,3,2,No,Bank Transfer,No
+44,Male,31,East,14,1,1,1,Yes,Auto-pay,Yes
+45,Male,59,North,49,2,3,2,Yes,Credit Card,No
+46,Female,45,West,45,3,2,2,No,Auto-pay,No
+47,Female,32,East,10,1,1,1,Yes,Bank Transfer,Yes
+48,Male,52,South,36,2,3,2,No,Credit Card,No
+49,Male,30,West,11,1,1,1,Yes,Auto-pay,Yes
+50,Female,53,East,53,2,3,2,Yes,Bank Transfer,No
+51,Male,37,North,18,1,2,1,Yes,Credit Card,Yes
+52,Female,61,West,57,3,3,2,Yes,Auto-pay,No
+53,Female,26,South,6,1,1,1,No,Bank Transfer,Yes
+54,Male,41,East,24,1,2,1,Yes,Credit Card,No
+55,Male,35,North,12,1,1,1,Yes,Auto-pay,Yes
+56,Female,69,West,60,3,3,2,Yes,Bank Transfer,No
+57,Female,30,East,7,1,1,1,No,Auto-pay,Yes
+58,Male,44,South,32,2,2,2,No,Bank Transfer,No
+59,Male,32,West,8,1,1,1,Yes,Credit Card,Yes
+60,Female,54,East,52,2,3,2,Yes,Auto-pay,No
+61,Male,38,North,15,1,1,1,Yes,Auto-pay,No
+62,Female,60,West,56,2,3,2,Yes,Auto-pay,No
+63,Female,43,South,31,2,2,2,Yes,Bank Transfer,No
+64,Male,29,East,6,1,1,1,Yes,Credit Card,Yes
+65,Male,49,North,37,2,3,2,No,Auto-pay,No
+66,Female,66,West,59,3,3,2,Yes,Bank Transfer,No
+67,Female,25,East,9,1,1,1,Yes,Auto-pay,Yes
+68,Male,40,South,22,1,2,1,No,Bank Transfer,No
+69,Male,33,West,7,1,1,1,Yes,Credit Card,Yes
+70,Female,58,East,58,2,3,2,No,Auto-pay,No
+71,Male,47,North,41,2,2,2,Yes,Auto-pay,No
+72,Female,31,West,16,1,1,1,Yes,Credit Card,No
+73,Female,45,South,27,2,2,2,Yes,Bank Transfer,No
+74,Male,35,East,11,1,1,1,Yes,Credit Card,Yes
+75,Male,50,North,38,2,3,2,Yes,Auto-pay,No
+76,Female,64,West,54,3,3,2,Yes,Bank Transfer,No
+77,Female,28,East,7,1,1,1,Yes,Credit Card,Yes
+78,Male,43,South,33,2,2,2,No,Auto-pay,No
+79,Male,34,West,10,1,1,1,Yes,Bank Transfer,Yes
+80,Female,52,East,28,2,3,2,Yes,Credit Card,No
+81,Male,41,North,14,1,2,1,Yes,Auto-pay,No
+82,Female,61,West,55,2,3,2,Yes,Bank Transfer,No
+83,Female,47,South,39,2,2,2,Yes,Auto-pay,No
+84,Male,32,East,12,1,1,1,Yes,Credit Card,Yes
+85,Male,51,North,36,2,2,2,Yes,Auto-pay,No
+86,Female,68,West,58,3,3,2,Yes,Auto-pay,No
+87,Female,29,East,6,1,1,1,Yes,Bank Transfer,Yes
+88,Male,42,South,30,2,3,2,No,Credit Card,Yes
+89,Male,33,West,8,1,1,1,No,Auto-pay,No
+90,Female,48,East,29,2,2,2,Yes,Bank Transfer,Yes
+91,Male,54,North,42,2,3,2,Yes,Credit Card,No
+92,Female,35,West,17,1,1,1,Yes,Auto-pay,No
+93,Female,62,South,58,3,3,2,No,Bank Transfer,No
+94,Male,27,East,5,1,1,1,Yes,Credit Card,Yes
+95,Male,55,North,41,2,2,2,Yes,Auto-pay,No
+96,Female,48,West,47,3,2,2,Yes,Bank Transfer,No
+97,Female,33,East,11,1,1,1,Yes,Credit Card,Yes
+98,Male,52,South,36,2,3,2,Yes,Auto-pay,No
+99,Male,31,West,7,1,1,1,Yes,Bank Transfer,Yes
+100,Female,59,East,58,2,3,2,Yes,Credit Card,No
